@@ -1,0 +1,2 @@
+C:\Users\joyp\Desktop\test_task_directory\test_task\x64\Debug\test_task.exe
+C:\Users\joyp\Desktop\test_task - copy\x64\Debug\test_task.exe
